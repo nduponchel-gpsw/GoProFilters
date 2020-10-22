@@ -1,0 +1,170 @@
+[
+  {
+    "name": "duke",
+    "rate_range": [
+      0.0,
+      1.0
+    ],
+    "categories": [
+      "basics",
+      "memories",
+      "vintage"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/duke.png"
+  },
+  {
+    "name": "waimea",
+    "rate_range": [
+      0.0,
+      1.4
+    ],
+    "categories": [
+      "outdoor"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/waimea.png"
+  },
+  {
+    "name": "vibe",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "outdoor",
+      "memories"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/vibe.png"
+  },
+  {
+    "name": "soleil",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "outdoor",
+      "snow"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/soleil.png"
+  },
+  {
+    "name": "bluebird",
+    "rate_range": [
+      0.0,
+      1.2
+    ],
+    "categories": [
+      "vintage",
+      "colors"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/bluebird.png"
+  },
+  {
+    "name": "ibiza",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "outdoor",
+      "basics"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/ibiza.png"
+  },
+  {
+    "name": "napali",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "outdoor",
+      "vintage"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/napali.png"
+  },
+  {
+    "name": "sequoia",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "colors"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/sequoia.png"
+  },
+  {
+    "name": "grind",
+    "rate_range": [
+      0.0,
+      1.0
+    ],
+    "categories": [
+      "colors",
+      "outdoor"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/grind.png"
+  },
+  {
+    "name": "keel",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/keel.png"
+  },
+  {
+    "name": "graffiti",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "vintage"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/graffiti.png"
+  },
+  {
+    "name": "gili",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "vintage"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/gili.png"
+  },
+  {
+    "name": "grotto",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "vintage"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/grotto.png"
+  },
+  {
+    "name": "rooftop",
+    "rate_range": [
+      0.0,
+      1
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/rooftop.png"
+  },
+  {
+    "name": "luge",
+    "rate_range": [
+      0.0,
+      1.5
+    ],
+    "categories": [
+      "outdoor",
+      "snow"
+    ],
+    "thumbnail_url": "https://raw.githubusercontent.com/nduponchel-gpsw/GoProFilters/main/thumbnails/luge.png"
+  }
+]
